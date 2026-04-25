@@ -6,7 +6,7 @@ This project is a full-stack microservices system for managing orders and paymen
 Frontend (React)
    ↓
 Order Service ←→ Payment Service
-        ↓
+        ↓/↑           ↓/↑
        Kafka (Event-driven)
 ```
 
