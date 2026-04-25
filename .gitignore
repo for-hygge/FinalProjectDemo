@@ -1,0 +1,12 @@
+.idea/
+.vscode/
+
+node_modules/
+dist/
+
+target/
+
+.terraform/
+**/.terraform/
+*.tfstate
+*.tfstate.backup
